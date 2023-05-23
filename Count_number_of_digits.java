@@ -1,5 +1,5 @@
 //4.	Write a java program to count the number of digits in a number
-public class Question4 {
+public class Count_number_of_digits {
     public static void main(String[] args) {
         //number
         int num = 125687901;
