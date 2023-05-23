@@ -1,5 +1,5 @@
 //2.	Write a Java program to find the largest of 3 numbers
-public class Question2 {
+public class LargestNumber {
     public static void main(String[] args)
     {
 //initializing numbers to compare
