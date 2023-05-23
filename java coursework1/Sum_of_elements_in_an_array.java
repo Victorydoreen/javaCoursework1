@@ -1,5 +1,5 @@
 //6.	Write a java program to find the sum of elements in an array
-public class Question6 {
+public class Sum_of_elements_in_an_array {
     public static void main(String[] args) {
         //Initialize array
         int [] array1 = new int [] {1, 2, 3, 4, 5};
