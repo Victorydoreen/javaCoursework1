@@ -2,6 +2,7 @@
 //  Factorial of n is the product of all positive descending integers. Factorial of n is denoted by n!.
 public class FactorialOfNumber {
     public static void main(String args[]){
+//         innitializing the numbers
             int x, factorial=1;
             int myNumber=6;
             //where myNumber is the number we are calculating factorial for
