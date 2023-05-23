@@ -1,6 +1,6 @@
 
 //1.	Write a Java program to swap 2 numbers
-public class Main {
+public class SwappingNumbers {
     public static void main(String[] args) {
         int first = 10;
         int second = 32;
